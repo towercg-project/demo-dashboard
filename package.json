@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "dependencies": {
     "react-scripts": "1.0.13",
-    "@towercg/dashboard": "^0.0.0",
-    "@towercg-plugins/example-dashboard": "^0.0.0",
-    "@towercg-plugins/twitch-dashboard": "^0.0.0"
+    "@towercg/dashboard": "^0.0.1",
+    "@towercg-plugins/example-dashboard": "^0.0.1",
+    "@towercg-plugins/twitch-dashboard": "^0.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
